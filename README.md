@@ -1,4 +1,5 @@
 # calculadora-descuentos-python
+
 # --- PROGRAMA PARA CALCULAR DESCUENTOS ---
 
 print("--- CALCULADORA DE DESCUENTOS ---")
